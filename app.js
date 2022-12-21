@@ -25,5 +25,9 @@
 
    })
 
+   clear.addEventListener('click',(e)=>
+   {
+    screen.value="";
+   })
  
 })();
