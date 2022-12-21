@@ -63,6 +63,10 @@ form input
     background-color: red;
     
 }
+
+.btn-del{
+    background-color: red;
+}
 button{
     margin: 5px 0;
     flex:0 0 22%;
